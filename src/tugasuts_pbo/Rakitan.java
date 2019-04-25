@@ -1,6 +1,6 @@
 package tugasuts_pbo;
 
-public class Utama {
+public class Rakitan {
     public static void main(String[] args) {
     Intel intel1 = new Intel(2);
     AMD amd1 = new AMD(3);
